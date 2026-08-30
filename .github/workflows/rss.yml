@@ -3,7 +3,7 @@ name: Generate Feeds
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "46 * * * *"
 
 permissions:
   contents: write
