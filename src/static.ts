@@ -153,6 +153,10 @@ const audiobooks = [
   {
     title: "Ventimila leghe sotto i mari",
     path: "audiolibri/ventimilaleghesottoimari"
+  },
+  {
+    title: "Cuore di cane",
+    path: "audiolibri/cuoredicane"
   }
 ]
 
