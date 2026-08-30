@@ -3,7 +3,7 @@ import path from "path"
 import { buildFeed } from "./feed.js"
 import { initCache } from "./cache.js"
 
-const BASE_URL = "https://giuliomagnifico.github.io/raiplaysound-feed"
+const BASE_URL = "https://galeot.github.io/raiplaysound-feed"
 
 const podcasts = [
   {
