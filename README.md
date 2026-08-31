@@ -9,8 +9,11 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 |----------|----------|
 | America7 | https://galeot.github.io/raiplaysound-feed/rss/programmi/america7.xml |
 | Battiti | https://galeot.github.io/raiplaysound-feed/rss/programmi/battiti.xml |
+| Belve Crime | https://galeot.github.io/raiplaysound-feed/rss//programmi/belvecrime.xml |
 | Body and soul | https://galeot.github.io/raiplaysound-feed/rss/programmi/bodyandsoul.xml |
+| Commissari - Sulle tracce del male | https://galeot.github.io/raiplaysound-feed/rss//programmi/commissari-sulletraccedelmale.xml |
 | Detectives - Casi risolti e irrisolti | https://galeot.github.io/raiplaysound-feed/rss/programmi/detectives-casirisoltieirrisolti.xml |
+| Detectives - Casi risolti e irrisolti | https://galeot.github.io/raiplaysound-feed/rss//programmi/detectives-casirisoltieirrisolti.xml |
 | Eta Beta | https://galeot.github.io/raiplaysound-feed/rss/programmi/etabeta.xml |
 | Giro del Mondo in una Coppa | https://galeot.github.io/raiplaysound-feed/rss/programmi/girodelmondoinunacoppa.xml |
 | GR Friuli Venezia Giulia | https://galeot.github.io/raiplaysound-feed/rss/programmi/grfriuliveneziagiulia.xml |
