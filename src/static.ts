@@ -139,10 +139,6 @@ const podcasts = [
     title: "Commissari - Sulle tracce del male",
     path: "/programmi/commissari-sulletraccedelmale"
   },
-      {
-    title: "Detectives - Casi risolti e irrisolti",
-    path: "/programmi/detectives-casirisoltieirrisolti"
-  },
 ]
 
 const audiobooks = [
