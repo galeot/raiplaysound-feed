@@ -31,6 +31,7 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | Radio3 Scienza | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/radio3scienza.xml |
 | Revolution | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/revolution.xml |
 | Riverberi | https://giuliomagnifico.github.io/raiplaysound-feed/rss//programmi/riverberi.xml |
+| Sancho | https://giuliomagnifico.github.io/raiplaysound-feed/rss//programmi/sancho.xml |
 | Sei gradi | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/seigradi.xml |
 | Tra poco in edicola | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/trapocoinedicola.xml |
 | Trenta minuti | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/radio3trentaminuti.xml |
